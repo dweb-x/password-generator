@@ -112,7 +112,7 @@ password -e -s
 
 ### Version
 
-Current version: 1.0.0
+Current version: 1.0.1
 
 
 ### Author
@@ -122,4 +122,4 @@ David Carruthers (david@dweb-x.com)
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
